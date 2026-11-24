@@ -1,0 +1,20 @@
+{
+    "topic": "cybersecurity",
+    "generated_at": "2026-11-24T09:31:40.365520+00:00",
+    "notes": [
+        "Requested 16 articles, but only 1 passed retrieval and relevance checks."
+    ],
+    "articles": [
+        {
+            "title": "CrowdStrike to acquire Zscaler for $44 billion",
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+            "published_at": "2026-11-23T16:20:11+00:00",
+            "retrieved_at": "2026-11-24T09:31:40.365015+00:00",
+            "excerpt": "Cybersecurity giant CrowdStrike has agreed to buy Zscaler in a $43.9 billion all-stock deal, the companies announced Monday.\nCrowdStrike and Zscaler said that the deal will create the “largest single addressable market” for cybersecurity, which will enable the companies to better position themselves for the AI era.\nZscaler is a San Jose, California-based tech company that provides cloud cybersecurity products to about 8,000 enterprise companies. The company offers zero-trust technology, a security feature that requires employees to authenticate each and every time they access an internal system or resource. The aim is to protect against hackers from stealing credentials and using them to gain unfettered access to a company’s network.\nCrowdStrike, which secures the computers, laptops, phones, and other devices connected to a company’s network, said the deal will unite its endpoint protection software with Zscaler’s zero-trust platform to better defend their customers against data breaches. By combining the two products, CrowdStrike and Zscaler say that they can offer “superior protection” to their customers.\nIn remarks on Monday, the companies said that the acquisition will help customers safely adopt AI.\nThe deal, which is subject to regulatory approval, is expected to close around this time next year.",
+            "excerpt_is_full_text": true,
+            "summary": "Cybersecurity giant CrowdStrike has agreed to buy Zscaler in a $43.9 billion all-stock deal, the companies announced Monday. Zscaler is a San Jose, California-based tech company that provides cloud cybersecurity products to about 8,000 enterprise companies. CrowdStrike, which secures the computers, laptops, phones, and other devices connected to a company’s network, said the deal will unite its endpoint protection software with Zscaler’s zero-trust platform to better defend their customers against data breaches.",
+            "missing_fields": []
+        }
+    ]
+}
