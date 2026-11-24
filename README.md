@@ -115,7 +115,6 @@ If fewer relevant articles are available than requested, the program reports the
 - **Keyword matching:** Relevance checks rely on literal topic keywords, so articles using synonyms or alternative terminology may be missed.
 - **RSS coverage:** Feeds expose a limited selection of recent articles, which can affect results for niche topics.
 - **Restricted pages:** Paywalls, HTTP errors and website restrictions can prevent full-text extraction.
-- **Hacker News dates:** Submission timestamps may differ from the original article publication dates.
 - **Extractive summaries:** Selected sentences retain their original wording, so summaries may occasionally lack smooth transitions.
 
 ## Possible improvements
@@ -123,4 +122,3 @@ If fewer relevant articles are available than requested, the program reports the
 - Add automated tests using saved RSS and HTML fixtures.
 - Expand topic matching with synonym support.
 - Improve discovery coverage with additional news sources.
-- Introduce concurrent article fetching with per-domain request limits.
